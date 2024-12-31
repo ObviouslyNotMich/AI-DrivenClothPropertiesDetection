@@ -54,8 +54,5 @@ Before running the project, ensure you have the following tools installed:
 - Achieved a **91% accuracy** in classifying cloth properties.
 - Optimized hyperparameters for improved model performance.
 
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue for discussions.
-
 ## License
 This project is licensed under the MIT License.
