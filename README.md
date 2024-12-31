@@ -44,7 +44,7 @@ Before running the project, ensure you have the following tools installed:
 - Make sure the dataset is placed in the `data/` directory.
 
 ## Usage
-1. Open the Jupyter Notebook file (`main.ipynb`) in your Jupyter environment.
+1. Open the Jupyter Notebook file in your Jupyter environment.
 2. Follow the steps outlined in the notebook to:
    - Preprocess the dataset
    - Train the CNN model
